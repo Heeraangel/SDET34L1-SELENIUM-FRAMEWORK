@@ -3,9 +3,13 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+<<<<<<< HEAD
+      <class name="com.vtiger.contactTest.CreateDuplicateContactTC_17Test"/>
+=======
       <class name="com.vtiger.campaignTest.CreateCampaignWithProductTest"/>
       <class name="com.vtiger.contactTest.CreateContactTest"/>
       <class name="com.vtiger.organizationTest.CreateOrganizationTest"/>
+>>>>>>> branch 'master' of https://github.com/Heeraangel/SDET34L1-SELENIUM-FRAMEWORK.git
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

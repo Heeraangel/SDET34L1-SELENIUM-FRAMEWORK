@@ -1,4 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-18T17:42:07 IST" name="Default suite" finished-at="2022-05-18T17:42:24 IST" duration-ms="16815">
+    <groups>
+    </groups>
+    <test started-at="2022-05-18T17:42:07 IST" name="Default test" finished-at="2022-05-18T17:42:24 IST" duration-ms="16815">
+      <class name="com.vtiger.contactTest.SendingEmailTC_18Test">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.vtiger.contactTest.SendingEmailTC_18Test@56cdfb3b]" started-at="2022-05-18T17:42:07 IST" name="beforeSuite" finished-at="2022-05-18T17:42:07 IST" duration-ms="846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.vtiger.contactTest.SendingEmailTC_18Test@56cdfb3b]" started-at="2022-05-18T17:42:07 IST" name="beforeClass" finished-at="2022-05-18T17:42:12 IST" duration-ms="4487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vtiger.contactTest.SendingEmailTC_18Test@56cdfb3b]" started-at="2022-05-18T17:42:12 IST" name="beforeMethod" finished-at="2022-05-18T17:42:15 IST" duration-ms="2708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="sendingEmailTC_18Test()[pri:0, instance:com.vtiger.contactTest.SendingEmailTC_18Test@56cdfb3b]" started-at="2022-05-18T17:42:15 IST" name="sendingEmailTC_18Test" finished-at="2022-05-18T17:42:22 IST" duration-ms="7556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendingEmailTC_18Test -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vtiger.contactTest.SendingEmailTC_18Test@56cdfb3b]" started-at="2022-05-18T17:42:22 IST" name="afterMethod" finished-at="2022-05-18T17:42:24 IST" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.vtiger.contactTest.SendingEmailTC_18Test@56cdfb3b]" started-at="2022-05-18T17:42:24 IST" name="afterClass" finished-at="2022-05-18T17:42:24 IST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.vtiger.contactTest.SendingEmailTC_18Test@56cdfb3b]" started-at="2022-05-18T17:42:24 IST" name="afterSuite" finished-at="2022-05-18T17:42:24 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.vtiger.contactTest.SendingEmailTC_18Test -->
+=======
 <testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
@@ -114,6 +153,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           </reporter-output>
         </test-method> <!-- afterSuite -->
       </class> <!-- com.vtiger.contactTest.CreateContactTest -->
+>>>>>>> branch 'master' of https://github.com/Heeraangel/SDET34L1-SELENIUM-FRAMEWORK.git
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

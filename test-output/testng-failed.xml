@@ -3,6 +3,19 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
+      <class name="com.vtiger.contactTest.EditContactTC_15Test">
+        <methods>
+          <include name="editContactTC_15Test"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.vtiger.contactTest.EditContactTC_15Test -->
+=======
       <class name="com.vtiger.contactTest.CreateContactTest">
         <methods>
           <include name="beforeClass"/>
@@ -14,6 +27,7 @@
           <include name="afterMethod"/>
         </methods>
       </class> <!-- com.vtiger.contactTest.CreateContactTest -->
+>>>>>>> branch 'master' of https://github.com/Heeraangel/SDET34L1-SELENIUM-FRAMEWORK.git
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
