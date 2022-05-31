@@ -121,6 +121,6 @@ public class BaseClass {
 	@AfterMethod(groups="baseclass")
 	public void afterMethod() throws InterruptedException
 	{
-		homepage.signOutAction(driver,webDriverLibrary);	
+		homepage.signOutAction(driver);	
 	}
 }
